@@ -1,2 +1,2 @@
-# math42
-for all assignment/Lab/HW of Fall22 math 42 
+# Math 42
+Assignments/ Labs/ Project -> Fall 2022
